@@ -1,3 +1,11 @@
 streamlit>=1.35
 yt-dlp[default]>=2025.11.12
 faster-whisper>=1.0.3
+fastapi
+uvicorn[standard]
+boto3
+redis
+celery
+psycopg[binary]
+python-dotenv
+python-multipart
